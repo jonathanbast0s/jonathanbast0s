@@ -1,15 +1,15 @@
 <h1 align="center">Prazer, me chamo Jonathan! </h1>
 
 <p align="center">
-   Estudante de tecnologia e entusiasta de desenvolvimento web.<br>
+   Estudante de Sistemas de Informação e entusiasta de desenvolvimento web.<br>
    Explorando o ecossistema Python e construindo aplicações com Django.
 </p>
 
 ---
 
 ###  Sobre mim
--  Atualmente estou aprimorando meus conhecimentos em **Python** e **Django**.
--  Gosto de aprender na prática, criando projetos web e entendendo como o back-end se conecta com as interfaces.
+-  Atualmente estou aprimorando meus conhecimentos em Python e Django.
+-  Aprendo na prática, criando projetos web e entendendo como o back-end se conecta com as interfaces.
 -  Em constante aprendizado para escrever códigos cada vez melhores e mais limpos.
 
 ---
