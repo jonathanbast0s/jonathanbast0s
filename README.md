@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Jonathan! 👋</h1>
+<h1 align="center">Olá, eu sou o Jonathan! </h1>
 
 <p align="center">
   💻 Estudante de tecnologia e entusiasta de desenvolvimento web.<br>
