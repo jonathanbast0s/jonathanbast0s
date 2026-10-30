@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Jonathan! 👋</h1>
 
-<!--
-**jonathanbast0s/jonathanbast0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de tecnologia e entusiasta de desenvolvimento web.<br>
+  🐍 Explorando o ecossistema Python e construindo aplicações com Django.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🔭 Atualmente estou aprimorando meus conhecimentos em **Python** e **Django**.
+- 💡 Gosto de aprender na prática, criando projetos web e entendendo como o back-end se conecta com as interfaces.
+- 🌱 Em constante aprendizado para escrever códigos cada vez melhores e mais limpos.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,html,git,github,vscode" />
+</div>
+
+- **Linguagem Principal:** Python
+- **Framework Web:** Django
+- **Banco de Dados:** SQLite
+- **Marcação / Front-end:** HTML, CSS básico
+- **Controle de Versão:** Git & GitHub
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jonathanbast0s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbast0s&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  📫 Como me encontrar: <a href="https://github.com/jonathanbast0s" target="_blank">GitHub</a>
+</p>
